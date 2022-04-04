@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648858018 source:c:\users\gamer\desktop\facultad\programacion\programacion\c\pilas\tp pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 source:c:\users\gamer\desktop\facultad\programacion\programacion\c\pilas\tp pilas\pila.c
+	"pila.h"
+
+1490112217 c:\users\gamer\desktop\facultad\programacion\programacion\c\pilas\tp pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
